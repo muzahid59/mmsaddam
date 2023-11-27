@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @mmsaddam
+- 👋 Hi, I’m Muzahidul Islam
 - 👀 I’m interested in SwiftUI
 - 🌱 I’m currently learning SwiftUI
 - 💞️ I’m looking to collaborate on Swift project
-- 📫 You cand me here mmsaddam@gmail.com
+- 📫 You can finc me here mmsaddam@gmail.com
 
 <!---
 mmsaddam/mmsaddam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
